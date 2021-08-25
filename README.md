@@ -1,5 +1,7 @@
 # flypy_gboard_dictionary
 
+小鹤双拼安卓gboard字典
+
 ![Snipaste_2021-08-25_12-17-21](https://raw.githubusercontent.com/mervynlam/Pictures/master/20210825122640.png)
 
 ![Snipaste_2021-08-25_12-17-58](https://raw.githubusercontent.com/mervynlam/Pictures/master/20210825122655.png)
