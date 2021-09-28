@@ -2098,7 +2098,6 @@ gvnm	孤枕难眠	zh-CN
 gvrc	果真如此	zh-CN
 gvrw	公众人物	zh-CN
 gvry	甘之如饴	zh-CN
-gvsw	个中三味	zh-CN
 gvus	骨质疏松	zh-CN
 gvvu	股掌之上	zh-CN
 gvws	公正无私	zh-CN

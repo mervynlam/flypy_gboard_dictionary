@@ -3701,7 +3701,7 @@ udti	识大体	zh-CN
 udts	手电筒	zh-CN
 udu	山东省	zh-CN
 udug	山东省	zh-CN
-udvc	数得着	zh-CN
+udvc	睡得着	zh-CN
 udvj	闪电战	zh-CN
 udxk	煽动性	zh-CN
 udz	书呆子	zh-CN
@@ -4984,7 +4984,7 @@ yxco	一小撮	zh-CN
 yxd	一想到	zh-CN
 yxdc	一想到	zh-CN
 yxf	右下方	zh-CN
-yxh	一席话	zh-CN
+yxh	有些话	zh-CN
 yxj	右下角	zh-CN
 yxji	游戏机	zh-CN
 yxjn	右下角	zh-CN

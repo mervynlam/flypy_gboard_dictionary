@@ -334,6 +334,7 @@ yv	意志	zh-CN
 yq	与其	zh-CN
 yx	悠闲	zh-CN
 zs	总算	zh-CN
+zw	座位	zh-CN
 aab	阿爸	zh-CN
 aaba	阿爸	zh-CN
 aage	阿哥	zh-CN
@@ -4076,7 +4077,7 @@ doxl	多想	zh-CN
 doxp	多谢	zh-CN
 doxr	多选	zh-CN
 doxx	夺下	zh-CN
-doy	多于	zh-CN
+doy	多余	zh-CN
 doyb	多音	zh-CN
 doyh	多样	zh-CN
 doyi	多疑	zh-CN
@@ -19174,7 +19175,7 @@ somf	锁门	zh-CN
 son	所能	zh-CN
 sona	唢呐	zh-CN
 song	所能	zh-CN
-sop	索赔	zh-CN
+sop	锁屏	zh-CN
 sopk	锁屏	zh-CN
 sopw	索赔	zh-CN
 soq	索取	zh-CN
@@ -27248,7 +27249,7 @@ yiuz	一首	zh-CN
 yivc	依照	zh-CN
 yive	依着	zh-CN
 yivf	一阵	zh-CN
-yivg	议政	zh-CN
+yivg	癔症	zh-CN
 yivh	一张	zh-CN
 yivi	一致	zh-CN
 yivj	驿站	zh-CN
@@ -27382,7 +27383,7 @@ yjmz	眼眸	zh-CN
 yjng	焉能	zh-CN
 yjpb	赝品	zh-CN
 yjpi	眼皮	zh-CN
-yjq	宴请	zh-CN
+yjq	延期	zh-CN
 yjqi	延期	zh-CN
 yjqk	言情	zh-CN
 yjql	烟枪	zh-CN
@@ -27595,7 +27596,7 @@ yrgr	圆管	zh-CN
 yrgs	员工	zh-CN
 yrgu	缘故	zh-CN
 yrgv	圆规	zh-CN
-yrh	原话	zh-CN
+yrh	圆滑	zh-CN
 yrhe	缘何	zh-CN
 yrhf	怨恨	zh-CN
 yrhh	远航	zh-CN
@@ -29166,7 +29167,7 @@ zvqk	最轻	zh-CN
 zvql	最强	zh-CN
 zvqm	最前	zh-CN
 zvqr	最全	zh-CN
-zvr	醉人	zh-CN
+zvr	罪人	zh-CN
 zvre	最热	zh-CN
 zvrf	罪人	zh-CN
 zvrh	最让	zh-CN
@@ -29326,6 +29327,7 @@ bmyi	贬义	zh-CN
 boli	剥离	zh-CN
 bolj	波兰	zh-CN
 bujq	补救	zh-CN
+cj	参加	zh-CN
 ciyu	赐予	zh-CN
 coui	错失	zh-CN
 cvcj	璀璨	zh-CN
@@ -29527,3 +29529,5 @@ xxm	想想	zh-CN
 yxk	音形	zh-CN
 hyx	回忆	zh-CN
 uqp	神祇	zh-CN
+vjb	整句	zh-CN
+vqm	政权	zh-CN
