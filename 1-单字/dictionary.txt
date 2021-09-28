@@ -3128,6 +3128,7 @@ ihtp	场	zh-CN
 ihu	畅	zh-CN
 ihup	畅	zh-CN
 ihx	常	zh-CN
+ihx	怅	zh-CN
 ihxb	鬯	zh-CN
 ihxj	常	zh-CN
 ihxk	惝	zh-CN
